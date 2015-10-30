@@ -3,5 +3,5 @@
 //call on the 'subject' description, and set '#access' to 0 to hide the subject.
 
 function hide_subject_form_alter(&$form, &$form_state, &$form_id) {
- $form['subject']['#access'] = 0;	
+  $form['subject']['#access'] = 0;	
 }
