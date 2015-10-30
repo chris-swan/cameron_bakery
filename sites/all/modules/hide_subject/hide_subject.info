@@ -1,0 +1,4 @@
+name = Hide Subject
+description = Custom Functions
+package = Custom
+core = 7.x
